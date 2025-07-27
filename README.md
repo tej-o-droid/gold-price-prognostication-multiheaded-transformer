@@ -97,7 +97,7 @@ Plug-and-play notebook with explanations and graphs.
 👨‍💻 Author
 Tej
 🎓 Data Science & Deep Learning Enthusiast
-📍https://github.com/tej-o-droid
+📍tej-o-droid GitHub
 
 
 
